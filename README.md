@@ -38,5 +38,31 @@ The trained Decision Tree model achieved good accuracy in predicting customer pu
 - Matplotlib
 - Seaborn
 
+## How to Run the Project
+
+### Prerequisites
+Ensure that Python 3.8 or above is installed on your system.
+
+Install the required libraries using pip:
+
+pip install pandas numpy scikit-learn matplotlib seaborn
+
+### Steps to Run
+1. Clone the repository or download the project files.
+2. Navigate to the project directory.
+3. Ensure the dataset file `bank.csv` is present in the same directory as the notebook.
+4. Launch Jupyter Notebook:
+
+jupyter notebook
+
+5. Open the file `decision_tree_classifier.ipynb`.
+6. Run the notebook cells sequentially from top to bottom.
+
+### Output
+- The model trains a Decision Tree classifier on the Bank Marketing dataset.
+- The final output displays the accuracy score.
+- A confusion matrix visualization is generated to evaluate model performance.
+
+
 ## Conclusion
 This project demonstrates the use of a Decision Tree model for solving a real-world classification problem using structured customer data.
