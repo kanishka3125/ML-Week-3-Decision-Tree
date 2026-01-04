@@ -71,7 +71,7 @@ Accuracy Score:
 0.88
 
 Confusion Matrix:
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](confussion_matrix.png)
 
 ## Conclusion
 This project demonstrates the use of a Decision Tree model for solving a real-world classification problem using structured customer data.
