@@ -65,13 +65,12 @@ jupyter notebook
 
 ## Sample Output
 
-## Sample Output
-
-Accuracy Score:
-0.88
+Accuracy Score: 0.88  
+(Note: Accuracy may vary slightly due to random train-test split.)
 
 Confusion Matrix:
-![Confusion Matrix](confussion_matrix.png)
+
+![Confusion Matrix](confusion_matrix.png)
 
 ## Conclusion
 This project demonstrates the use of a Decision Tree model for solving a real-world classification problem using structured customer data.
